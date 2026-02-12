@@ -25,3 +25,10 @@ A GUI-based Tiffin Management System built using Python and Tkinter.
 Username: ADMIN
 Password: admin
 "# Tiffin-Mess-Manager" 
+
+![Tiffin App Screenshot]
+(1.png)
+(2.png)
+(3.png)
+(4.png)
+(5.png)
