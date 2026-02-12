@@ -26,9 +26,4 @@ Username: ADMIN
 Password: admin
 "# Tiffin-Mess-Manager" 
 
-![Tiffin App Screenshot]
-(1.png)
-(2.png)
-(3.png)
-(4.png)
-(5.png)
+![Tiffin App Screenshot](screenshots.png)
